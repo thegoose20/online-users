@@ -1,5 +1,5 @@
 # online-users
-Code accompanying a [blog post](https://blog.lucyhavens.com/2024/05/22/what-i-talk-about-when-i-talk-about-bias-part-ii/).
+Code accompanying a [blog post](https://blog.lucyhavens.com/2024/06/12/what-i-talk-about-when-i-talk-about-bias-part-ii/).
 
 Data sources:
 * [The World Bank](https://data.worldbank.org/indicator/IT.NET.USER.ZS) - *for global population and Internet usage*
